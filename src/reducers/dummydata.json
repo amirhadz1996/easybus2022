@@ -1,0 +1,21 @@
+[
+    {       "id": 1, 
+        "name": "Adi", 
+        "surname": "Dupovac", 
+        "number": "062123123", 
+        "stanje": 20 
+        },
+        {       "id": 2, 
+            "name": "Ivor", 
+            "surname": "Herovic", 
+            "number": "06212311", 
+            "stanje": 15 
+            
+            }, 
+            {       "id": 3, 
+                "name": "Amir", 
+                "surname": "Hadzic", 
+                "number": "062111222", 
+                "stanje": 25 
+                }
+            ]
